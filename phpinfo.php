@@ -1,1 +1,1 @@
-<?php phpinfo(); 111?>
+<?php phpinfo(); ?>
