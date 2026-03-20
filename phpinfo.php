@@ -1,3 +1,3 @@
 <?php 
-phpinfo();啊啊啊啊
+phpinfo();
 ?>
