@@ -1,3 +1,3 @@
 <?php 
-phpinfo();111
+phpinfo();123456
 ?>
